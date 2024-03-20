@@ -1,0 +1,227 @@
+<RCC>
+    <qresource prefix="/">
+		<file>main.qml</file>
+		<file>types/ImageButton.qml</file>
+		<file>AudioTab.qml</file>
+		<file>ColorAdjustmentTab.qml</file>
+		<file>BluetoothTab.qml</file>
+		<file>BluetoothSearch.qml</file>
+		<file>BluetoothPaired.qml</file>
+		<file>FWUpdateTab.qml</file>
+
+		<file>images/setting_bg.png</file>
+		<file>images/setting_bt_disconnect_dis.png</file>
+		<file>images/setting_bt_disconnect_foc.png</file>
+		<file>images/setting_bt_disconnect_nor.png</file>
+		<file>images/setting_bt_disconnect_prsd.png</file>
+		<file>images/setting_exit_n.png</file>
+		<file>images/setting_exit_p.png</file>
+		<file>images/setting_exit_f.png</file>
+		<file>images/setting_exit_d.png</file>
+		<file>images/setting_control_01_n.png</file>
+		<file>images/setting_control_01_p.png</file>
+		<file>images/setting_control_02_n.png</file>
+		<file>images/setting_control_02_p.png</file>
+		<file>images/setting_am_save_n.png</file>
+		<file>images/setting_am_save_p.png</file>
+		<file>images/setting_volume_00_img.png</file>
+		<file>images/setting_volume_01_img.png</file>
+		<file>images/setting_volume_02_img.png</file>
+		<file>images/setting_volume_03_img.png</file>
+		<file>images/setting_volume_04_img.png</file>
+		<file>images/setting_volume_05_img.png</file>
+		<file>images/setting_volume_06_img.png</file>
+		<file>images/setting_volume_07_img.png</file>
+		<file>images/setting_volume_08_img.png</file>
+		<file>images/setting_volume_09_img.png</file>
+		<file>images/setting_volume_10_img.png</file>
+
+		<file>images/setting_bt_vol_nor.png</file>
+		<file>images/setting_bt_vol_prsd.png</file>
+		<file>images/setting_bt_vol_foc.png</file>
+		<file>images/setting_bt_vol_dis.png</file>
+
+		<file>images/phone_bt_pageup_btn_n.png</file>
+		<file>images/phone_bt_pageup_btn_p.png</file>
+		<file>images/phone_bt_pagedown_btn_n.png</file>
+		<file>images/phone_bt_pagedown_btn_p.png</file>
+
+		<file>images/phone_list_bg_01.png</file>
+		<file>images/phone_list_bg_02.png</file>
+
+		<file>images/setting_bt_band_nor.png</file>
+		<file>images/setting_bt_band_prsd.png</file>
+		<file>images/setting_bt_band_foc.png</file>
+		<file>images/setting_bt_band_dis.png</file>
+
+		<file>images/setting_bt_display_nor.png</file>
+		<file>images/setting_bt_display_prsd.png</file>
+		<file>images/setting_bt_display_foc.png</file>
+		<file>images/setting_bt_display_dis.png</file>
+
+		<file>images/setting_bt_bass_nor.png</file>
+		<file>images/setting_bt_bass_prsd.png</file>
+		<file>images/setting_bt_bass_foc.png</file>
+		<file>images/setting_bt_bass_dis.png</file>
+
+		<file>images/setting_bt_balance_nor.png</file>
+		<file>images/setting_bt_balance_prsd.png</file>
+		<file>images/setting_bt_balance_foc.png</file>
+		<file>images/setting_bt_balance_dis.png</file>
+
+		<file>images/setting_bt_bluetooth_nor.png</file>
+		<file>images/setting_bt_bluetooth_prsd.png</file>
+		<file>images/setting_bt_bluetooth_foc.png</file>
+		<file>images/setting_bt_bluetooth_dis.png</file>
+
+
+		<file>images/setting_bt_ctrl_plus_nor.png</file>
+		<file>images/setting_bt_ctrl_plus_prsd.png</file>
+		<file>images/setting_bt_ctrl_minus_nor.png</file>
+		<file>images/setting_bt_ctrl_minus_prsd.png</file>
+
+		<file>images/setting_bt_pop_off.png</file>
+		<file>images/setting_bt_pop_on.png</file>
+		<file>images/setting_bt_rock_off.png</file>
+		<file>images/setting_bt_rock_on.png</file>
+		<file>images/setting_bt_jazz_off.png</file>
+		<file>images/setting_bt_jazz_on.png</file>
+		<file>images/setting_bt_classic_off.png</file>
+		<file>images/setting_bt_classic_on.png</file>
+		<file>images/setting_bt_hiphop_off.png</file>
+		<file>images/setting_bt_hiphop_on.png</file>
+		<file>images/setting_bt_manual_off.png</file>
+		<file>images/setting_bt_manual_on.png</file>
+
+		<file>images/setting_gage2_0.png</file>
+		<file>images/setting_gage2_1.png</file>
+		<file>images/setting_gage2_2.png</file>
+		<file>images/setting_gage2_3.png</file>
+		<file>images/setting_gage2_4.png</file>
+		<file>images/setting_gage2_5.png</file>
+		<file>images/setting_gage2_6.png</file>
+		<file>images/setting_gage2_7.png</file>
+		<file>images/setting_gage2_8.png</file>
+		<file>images/setting_gage2_9.png</file>
+		<file>images/setting_gage2_10.png</file>
+		<file>images/setting_gage2_11.png</file>
+		<file>images/setting_gage2_12.png</file>
+
+		<file>images/setting_gage3_0.png</file>
+		<file>images/setting_gage3_1.png</file>
+		<file>images/setting_gage3_2.png</file>
+		<file>images/setting_gage3_3.png</file>
+		<file>images/setting_gage3_4.png</file>
+		<file>images/setting_gage3_5.png</file>
+
+		<file>images/setting_ctrl_bar_h.png</file>
+		<file>images/setting_ctrl_bar_v.png</file>
+		<file>images/setting_ctrl_guideline_h.png</file>
+		<file>images/setting_ctrl_guideline_v.png</file>
+		<file>images/setting_ctrl_seat_bg.png</file>
+
+		<file>images/setting_bt_ctrl_up_nor.png</file>
+		<file>images/setting_bt_ctrl_up_prsd.png</file>
+		<file>images/setting_bt_ctrl_down_nor.png</file>
+		<file>images/setting_bt_ctrl_down_prsd.png</file>
+		<file>images/setting_bt_ctrl_left_nor.png</file>
+		<file>images/setting_bt_ctrl_left_prsd.png</file>
+		<file>images/setting_bt_ctrl_right_nor.png</file>
+		<file>images/setting_bt_ctrl_right_prsd.png</file>
+
+		<file>images/setting_bt_on_dis.png</file>
+		<file>images/setting_bt_on_foc.png</file>
+		<file>images/setting_bt_on_nor.png</file>
+		<file>images/setting_bt_on_prsd.png</file>
+
+		<file>images/setting_bt_paired_dis.png</file>
+		<file>images/setting_bt_paired_foc.png</file>
+		<file>images/setting_bt_paired_nor.png</file>
+		<file>images/setting_bt_paired_prsd.png</file>
+
+		<file>images/setting_bt_available_dis.png</file>
+		<file>images/setting_bt_available_foc.png</file>
+		<file>images/setting_bt_available_nor.png</file>
+		<file>images/setting_bt_available_prsd.png</file>
+
+		<file>images/setting_bt_connect_dis.png</file>
+		<file>images/setting_bt_connect_foc.png</file>
+		<file>images/setting_bt_connect_nor.png</file>
+		<file>images/setting_bt_connect_prsd.png</file>
+
+		<file>images/setting_bt_delete_dis.png</file>
+		<file>images/setting_bt_delete_foc.png</file>
+		<file>images/setting_bt_delete_nor.png</file>
+		<file>images/setting_bt_delete_prsd.png</file>
+
+		<file>images/setting_bt_back_dis.png</file>
+		<file>images/setting_bt_back_foc.png</file>
+		<file>images/setting_bt_back_nor.png</file>
+		<file>images/setting_bt_back_prsd.png</file>
+
+		<file>images/setting_bt_discoverable_dis.png</file>
+		<file>images/setting_bt_discoverable_foc.png</file>
+		<file>images/setting_bt_discoverable_nor.png</file>
+		<file>images/setting_bt_discoverable_prsd.png</file>
+
+		<file>images/setting_bt_search_dis.png</file>
+		<file>images/setting_bt_search_foc.png</file>
+		<file>images/setting_bt_search_nor.png</file>
+		<file>images/setting_bt_search_prsd.png</file>
+
+		<file>images/setting_bt_stop_dis.png</file>
+		<file>images/setting_bt_stop_foc.png</file>
+		<file>images/setting_bt_stop_nor.png</file>
+		<file>images/setting_bt_stop_prsd.png</file>
+
+		<file>images/setting_bt_fwup_dis.png</file>
+		<file>images/setting_bt_fwup_foc.png</file>
+		<file>images/setting_bt_fwup_nor.png</file>
+		<file>images/setting_bt_fwup_prsd.png</file>
+
+		<file>images/setting_fwup_all_dis.png</file>
+		<file>images/setting_fwup_all_foc.png</file>
+		<file>images/setting_fwup_all_nor.png</file>
+		<file>images/setting_fwup_all_prsd.png</file>
+
+		<file>images/setting_fwup_main_dis.png</file>
+		<file>images/setting_fwup_main_foc.png</file>
+		<file>images/setting_fwup_main_nor.png</file>
+		<file>images/setting_fwup_main_prsd.png</file>
+
+		<file>images/setting_fwup_snor_dis.png</file>
+		<file>images/setting_fwup_snor_foc.png</file>
+		<file>images/setting_fwup_snor_nor.png</file>
+		<file>images/setting_fwup_snor_prsd.png</file>
+
+		<file>images/setting_fwup_sub_dis.png</file>
+		<file>images/setting_fwup_sub_foc.png</file>
+		<file>images/setting_fwup_sub_nor.png</file>
+		<file>images/setting_fwup_sub_prsd.png</file>
+
+		<file>images/color_format_rgb_n.png</file>
+		<file>images/color_format_rgb_p.png</file>
+		<file>images/color_format_ycc444_n.png</file>
+		<file>images/color_format_ycc444_p.png</file>
+
+		<file>images/setting_bt_ca_dis.png</file>
+		<file>images/setting_bt_ca_foc.png</file>
+		<file>images/setting_bt_ca_nor.png</file>
+		<file>images/setting_bt_ca_prsd.png</file>
+
+		<file>images/setting_ca_disp0_off.png</file>
+		<file>images/setting_ca_disp0_on.png</file>
+		<file>images/setting_ca_disp1_off.png</file>
+		<file>images/setting_ca_disp1_on.png</file>
+		<file>images/setting_ca_disp2_off.png</file>
+		<file>images/setting_ca_disp2_on.png</file>
+		<file>images/setting_ca_off_off.png</file>
+		<file>images/setting_ca_off_on.png</file>
+		<file>images/setting_ca_on_off.png</file>
+		<file>images/setting_ca_on_on.png</file>
+		<file>images/setting_ca_set_off.png</file>
+		<file>images/setting_ca_set_on.png</file>
+		<file>images/setting_ca_video_off.png</file>
+		<file>images/setting_ca_video_on.png</file>
+		</qresource>
+</RCC>
